@@ -116,3 +116,4 @@ yapf==0.43.0
 streamlit==0.81.0
 # pandas==1.2.4
 # fgja
+babel=2.16.0
